@@ -1,0 +1,6 @@
+1. Using Angular, JavaScript, or TypeScript, complete the following and be ready to exectute and explain your work during the interview.
+2. a. Review the https://poetrydb.org/api
+3. b. Write a script or webpage to make rest calls to the server(author and title endpoint) and inspect the response.
+4. c. The script should throw an error if a 200 is not recieved
+5. d. Enhance the script to retrieve both author and title by name and log all relevant data
+6. e. Be prepared to expand the functionality of your solution during the interview 
